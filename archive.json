@@ -1,0 +1,12 @@
+[
+    {
+        "title": "BactaTank Classic",
+        "date": "26th Jan, 2023",
+        "tags": [ "Tool" ],
+        "downloads": [
+            "test.zip"
+        ],
+        "content": "archive/bactatank.md",
+        "thumbnail": "https://i.imgur.com/d3d05GW.png"
+    }
+]
