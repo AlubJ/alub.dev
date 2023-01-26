@@ -4,7 +4,13 @@
         "date": "26th Jan, 2023",
         "tags": [ "Tool" ],
         "downloads": [
-            "test.zip"
+            {
+                "title": "BactaTank Classic",
+                "name": "BactaTank-Classic-0.0.4.zip",
+                "link": "test.zip",
+                "date": "26th Jan, 2023",
+                "version": "0.0.4"
+            }
         ],
         "content": "archives/bactatank.md",
         "thumbnail": "https://i.imgur.com/d3d05GW.png"
