@@ -6,13 +6,13 @@
         "downloads": [
             {
                 "title": "BactaTank Classic",
-                "name": "BactaTank-Classic-0.0.4.zip",
-                "link": "test.zip",
+                "name": "BactaTankClassic-v0.0.4-vm.zip",
+                "link": "archives/bactatank/BactaTankClassic-v0.0.4-vm",
                 "date": "26th Jan, 2023",
                 "version": "0.0.4"
             }
         ],
-        "content": "archives/bactatank.md",
+        "content": "archives/bactatank/bactatank.md",
         "thumbnail": "https://i.imgur.com/d3d05GW.png"
     }
 ]
