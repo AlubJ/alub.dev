@@ -1,11 +1,11 @@
 [
   {
-    "title": "Test Article1",
-    "date": "25th Jan, 2023",
+    "title": "CalicoEngine Rewrite",
+    "date": "26th Jan, 2023",
     "tags": [
       "CalicoEngine",
       "DevLog"
     ],
-    "content": "articles/article01.md"
+    "content": "articles/calicoEngineRewrite.md"
   }
 ]
