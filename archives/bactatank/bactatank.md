@@ -1,4 +1,5 @@
 # BactaTank Classic
+
 ![BactaTankThumb](https://i.imgur.com/AF7uRe2.png)
 
 BactaTank is a character creation tool for LEGO Star Wars The Complete Saga, LEGO Indiana Jones The Original Adventures, and LEGO Batman The Video Game. You can create your own custom characters by editing textures, materials, and replacing meshes.
@@ -17,6 +18,7 @@ Before attempting any custom mesh replacements you will need a copy of Blender 2
 # Creating a Character
 ## Loading a Character
 To load a character into BactaTank, either use; a preset character (amazing character bases built by talented modders to make your mods easier to make) or a character you want to load. You can drag character files onto BactaTank to open them too!
+
 ![bt_homepage](https://i.imgur.com/hTliNuY.png)
 
 ## Character Attributes Panel
@@ -28,22 +30,26 @@ To disable meshes or to disable rendering layers, right click the induvidual ite
 
 ## Editing Textures
 To edit textures, select a texture, and export it. You can edit it in Paint.NET and save it as a `.dds` file with compression levels at `DXT1`, `DXT3`, or `DXT5`. To replace a texture click the `Replace Texture` button and select a new `.dds` file.
+
 ![bt_textures](https://i.imgur.com/ZYgnZmo.png)
 
 ## Replacing Meshes
 With `v0.1.0` comes the addition of mesh swapping, the act of taking an existing mesh from the same or different character, and reimporting it. You can also change the bone-linkage for each mesh making it easy to swap meshes.
 
 To replace a mesh, click on the `Replace Mesh` button, and select a `.btank` file from either an exported mesh from BactaTank or an exported mesh from Blender.
+
 ![bt_meshes](https://i.imgur.com/AsgtIjr.png)
 
 ## Editing Materials
 The rendering has been updated for `v0.1.0` to render the character as closely as possible to the game. New additions include cubemapped matierals and better specular highlighting. So that when editing materials, you can get a good preview of what it might look like in game.
+
 ![bt_materials](https://i.imgur.com/N3UPicU.png)
 
 ## Editing Locators
 Locators are what the game uses to place items, shadows, or vfx in the right place. Locators are usually connected to a specific bone with a slight offset in position, rotation and scale. The locators are coloured in blue in the viewer.
 
 Right now, `v0.1.0` can only *edit* the position of a locator, however, you can build entirely new locators with the Locator Builder.
+
 ![bt_locators](https://i.imgur.com/MNiUDYG.png)
 
 ## Viewable Attributes
