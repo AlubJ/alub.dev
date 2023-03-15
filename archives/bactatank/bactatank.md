@@ -19,6 +19,8 @@ Before attempting any custom mesh replacements you will need a copy of Blender 2
 ## Loading a Character
 To load a character into BactaTank, either use; a preset character (amazing character bases built by talented modders to make your mods easier to make) or a character you want to load. You can drag character files onto BactaTank to open them too!
 
+`Note` When loading a character, it might take a while to load and it might freeze BactaTank, this is because BactaTank is loading all the textures and meshes. BactaTank will cache textures and meshes for faster loading. If you wish to delete the cached data just delete the directory `%localappdata%\Temp\BactaTankClassic\_cache`.
+
 ![bt_homepage](https://i.imgur.com/hTliNuY.png)
 
 ## Character Attributes Panel
@@ -54,6 +56,8 @@ Right now, `v0.1.0` can only *edit* the position of a locator, however, you can 
 
 ## Viewable Attributes
 Currently, layers and bones are only viewable in BactaTank, however BactaTank does provide you with offsets if you would like to edit these attributes manually. You can change which material is used by a mesh which is sort of layer editing, but since it's more of a mesh editing feature, it's in mesh editor and not the locator editor.
+
+![bt_characters](https://i.imgur.com/KE5yCIo.png)
 
 # Credits
 This tool has been a long time in the making, and while I did most of the programming myself, I couldn't have done it without these amazing people.
